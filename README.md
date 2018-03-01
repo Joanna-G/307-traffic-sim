@@ -1,4 +1,4 @@
-# 307-traffic-sim
+# CS 307 Traffic Sim
 A traffic grid simulator for CS 307 at UAH.
 
 This program simulates traffic on a grid of roads. The roads have a speed limit and each intersection has a stoplight.
